@@ -15,7 +15,7 @@
   "author": "camel-case",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.12.0",
+    "axios": "^1.12.0",
     "babel-loader": "^6.2.4",
     "babel-preset-es2015": "^6.9.0",
     "babel-preset-react": "^6.11.1",
